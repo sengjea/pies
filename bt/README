@@ -1,0 +1,4 @@
+To run the code call: python phoneticsearch.py <surname1> [surname2] ... < <surnames_file>.txt
+
+Example test:
+python phoneticsearch.py Jones Winton < surnames.txt
