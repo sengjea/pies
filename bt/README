@@ -1,4 +1,8 @@
-To run the code call: python phoneticsearch.py <surname1> [surname2] ... < <surnames_file>.txt
+To run the code, enter this in a linux terminal:
+python phoneticsearch.py <surname1> [surname2] ... < <surnames_file>.txt
 
 Example test:
 python phoneticsearch.py Jones Winton < surnames.txt
+
+Other tests:
+python phoneticsearch.py Abbey < surnames3.txt
